@@ -1,0 +1,180 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    position: relative;
+    justify-content: center;
+}
+
+.canva {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../image/pexels-lumn-167706.jpg) no-repeat;
+    background-size: cover;
+    height: 50vh;
+    background-attachment: fixed;
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.offcanvas {
+    background: rgb(23, 23, 66);
+}
+
+.navbar-toggler-icon {
+    font-size: 40px;
+    color: white;
+}
+
+.navbar-toggler:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.navbar-brand {
+    color: white;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.navbar-brand:hover {
+    color: white;
+}
+
+.navbar-nav a {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    text-transform: uppercase;
+    transition: all 0.5s;
+}
+
+.navbar-nav a:hover {
+    color: rgb(235, 42, 42);
+}
+
+.btn1 {
+    height: 100%;
+    border: none;
+    outline: none;
+    color: white;
+    background-color: rgb(71, 71, 207);
+    font-weight: bold;
+    position: relative;
+    font-size: x-large;
+    text-decoration: none;
+}
+
+.btn1:hover {
+    height: 100%;
+    background: rgba(10, 157, 170, 0.657);
+    color: white;
+}
+
+.brandav {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.cc {
+    height: 43px;
+    width: 40px;
+}
+
+.div-body {
+    justify-content: center !important;
+}
+
+@media (max-width: 720px) {
+    .hamdi {
+        margin-top: 15px !important;
+    }
+}
+
+@media (min-width: 720px) {
+    .hamdi {
+        margin-top: 100px !important;
+    }
+}
+
+.robi {
+    font-size: 30px;
+    font-weight: bolder;
+    margin-top: 0px;
+}
+
+.naol {
+    align-items: center;
+    width: 200px;
+    height: 40px;
+    background-color: blue;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 20px;
+    color: white;
+    margin-top: 0px;
+}
+
+.naol:hover {
+    background-color: black;
+}
+
+.hiyu {
+    font-size: 25px;
+}
+
+.im {
+    width: 100%;
+    height: 100%;
+}
+
+.beboy {
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+}
+
+.tera {
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+
+.name {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.price {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.redy {
+    border: 2px solid silver;
+    padding-bottom: 40px;
+}
+
+.foot {
+    background-color: rgb(164, 144, 144);
+}
+
+.friti {
+    font-size: 20px;
+    color: black;
+    margin-left: 20px;
+}
+
+.friti:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+.bbo {
+    list-style-type: none;
+}
+
+.bbc {
+    margin-top: 50px;
+    text-align: center;
+}
